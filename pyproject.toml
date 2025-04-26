@@ -1,0 +1,11 @@
+[project]
+name = "wikijs-upload"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "ariadne-codegen>=0.14.0",
+    "graphql-query>=1.4.0",
+    "graphqlclient>=0.2.4",
+    "requests>=2.32.3",
+]
